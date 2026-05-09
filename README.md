@@ -49,7 +49,7 @@ Check the live demo to experience the animations and transitions.
 
 Clone the repository to explore the code:
 
-git clone your_github_repo_link_here https://github.com/roghaye84/anime-slider
+git clone your_github_repo_link_here https://github.com/roghayem/anime-slider
 
 
 Modify slides, images, and animations for your own projects.
